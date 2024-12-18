@@ -6,6 +6,7 @@ public class Simple {
 		System.out.println("Hi from STS");
 		System.out.println("Hi from GITHUB");
 		System.out.println("Welcome again from Sts");
+		System.out.println("Hi from first branch in commit");
 	}
 
 }
